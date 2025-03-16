@@ -8,5 +8,5 @@ fun_facts = [
     "There’s an island in Japan called 'Rabbit Island' because it's full of bunnies!"
 ]
 
-print("Did you know? 🤔")
+print("Did you know?")
 print(random.choice(fun_facts))
